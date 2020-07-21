@@ -5,7 +5,7 @@
  color: white;
  box-sizing: border-box;
  width: 100%;
- padding: 50px;
+ padding-top: 50px;
  height: 200px;
 }
 
@@ -115,4 +115,16 @@
   text-align: center;
   color: #37456C;
  }
+.agreement-buttons{
+ text-align:center;
+}
+.agreement-buttons button {
+ width:auto;
+}
+.head-text h1{
+ font-size:25px;
+}
+.agreement-wrapper{
+ width:100%
+}
 }

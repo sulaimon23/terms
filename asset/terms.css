@@ -111,18 +111,22 @@
  .agreement-wrapper{
   width: 90%;
  }
+ .container{
+  padding:0;
+ }
  .terms-text{
   text-align: center;
   color: #37456C;
  }
 .agreement-buttons{
  text-align:center;
+ margin:1px;
 }
 .agreement-buttons button {
  width:auto;
 }
 .head-text h1{
- font-size:25px;
+ font-size:20px;
 }
 .agreement-wrapper{
  width:100%
